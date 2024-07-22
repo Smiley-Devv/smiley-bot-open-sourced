@@ -8,7 +8,7 @@ For more details and to access the GitHub repository, visit SmileyBot's website.
 
 wbesite https://smiley.iceiy.com
 
-preq
+# preq
 npm install discord.js
 npm i
 boom 
