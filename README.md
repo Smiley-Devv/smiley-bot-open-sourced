@@ -6,7 +6,10 @@ For more details and to access the GitHub repository, visit SmileyBot's website.
 
  Feel free to tag wadawas12 and zwifty if you have any questions or feedback.
 
-wbesite https://smiley.iceiy.com
+ # wbesite
+https://smiley.iceiy.com
+# docs
+https://smiley-studios.gitbook.io/smileys-docs
 
 # preq
 npm install discord.js
