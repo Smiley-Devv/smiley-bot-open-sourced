@@ -12,7 +12,16 @@ wbesite https://smiley.iceiy.com
 npm install discord.js
 npm i
 boom 
+
+
+# how do i get my bot token 
+
 https://discord.com/developers/applications
+
+
+
+# env?
+env.example remove the example part and the dot
 
 
 # please  star  this github page
