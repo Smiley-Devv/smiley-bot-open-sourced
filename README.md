@@ -11,3 +11,13 @@ wbesite https://smiley.iceiy.com
 
 please  star this github page if you downloaded it thanks.
 
+our # team
+owner wasdawas12 (qxr)
+admin boderfps on twitch
+admin zwifty  good montage editor
+
+our discord 
+permanment link wont expire if do please open up an issue
+https://discord.gg/a4NKsJG2YD
+
+
