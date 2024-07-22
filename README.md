@@ -12,7 +12,7 @@ preq
 npm install discord.js
 npm i
 boom 
-https://discord.com/developer/portal
+https://discord.com/developers/applications
 
 
 please  star this github page if you downloaded it thanks.
